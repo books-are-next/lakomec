@@ -1,0 +1,5 @@
+---
+title: ''
+---
+
+![](../Images/lakomec.jpg)

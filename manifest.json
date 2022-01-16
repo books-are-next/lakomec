@@ -1,0 +1,602 @@
+{
+  "author": "Molière",
+  "edition": "beletrie",
+  "identifier": "moliere-lakomec-ba3d9ae",
+  "languagecode": "cs",
+  "modified": "2022-01-16T17:16:49.870Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Lakomec",
+  "revision": "ba3d9ae",
+  "generatedAt": {
+    "date": "Sun Jan 16 2022 17:29:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642354185582
+  },
+  "documents": [
+    {
+      "title": "Lakomec",
+      "file": "lakomec_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "lakomec_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakomec",
+      "file": "lakomec_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "lakomec_001.html",
+      "next": "lakomec_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakomec",
+      "file": "lakomec_003.html",
+      "words": 9,
+      "chars": 67,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "lakomec_002.html",
+      "next": "lakomec_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakomec",
+      "file": "lakomec_004.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 3,
+      "prev": "lakomec_003.html",
+      "next": "lakomec_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakomec",
+      "file": "lakomec_005.html",
+      "words": 78,
+      "chars": 514,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "lakomec_004.html",
+      "next": "lakomec_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakomec",
+      "file": "lakomec_006.html",
+      "words": 520,
+      "chars": 3445,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 5,
+      "prev": "lakomec_005.html",
+      "next": "lakomec_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Lakomec",
+      "file": "lakomec_007.html",
+      "words": 70,
+      "chars": 465,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "lakomec_006.html",
+      "next": "lakomec_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PRVNÍ • Lakomec",
+      "file": "lakomec_008.html",
+      "words": 4403,
+      "chars": 25782,
+      "ideas": 280,
+      "role": "chapter",
+      "order": 7,
+      "prev": "lakomec_007.html",
+      "next": "lakomec_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PRVNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1.",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2.",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3.",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4.",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5.",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6.",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7.",
+              "id": "výstup-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Výstup 8.",
+              "id": "výstup-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Výstup 9.",
+              "id": "výstup-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Výstup 10.",
+              "id": "výstup-10",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ DRUHÉ • Lakomec",
+      "file": "lakomec_009.html",
+      "words": 3340,
+      "chars": 19751,
+      "ideas": 160,
+      "role": "chapter",
+      "order": 8,
+      "prev": "lakomec_008.html",
+      "next": "lakomec_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ DRUHÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1.",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2.",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3.",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4.",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5.",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6.",
+              "id": "výstup-6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ TŘETÍ • Lakomec",
+      "file": "lakomec_010.html",
+      "words": 3346,
+      "chars": 19924,
+      "ideas": 243,
+      "role": "chapter",
+      "order": 9,
+      "prev": "lakomec_009.html",
+      "next": "lakomec_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ TŘETÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1.",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2.",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3.",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4.",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5.",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6.",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7.",
+              "id": "výstup-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Výstup 8.",
+              "id": "výstup-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Výstup 9.",
+              "id": "výstup-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Výstup 10.",
+              "id": "výstup-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Výstup 11.",
+              "id": "výstup-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Výstup 12.",
+              "id": "výstup-12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Výstup 13.",
+              "id": "výstup-13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Výstup 14.",
+              "id": "výstup-14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Výstup 15.",
+              "id": "výstup-15",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ ČTVRTÉ • Lakomec",
+      "file": "lakomec_011.html",
+      "words": 2654,
+      "chars": 15182,
+      "ideas": 173,
+      "role": "chapter",
+      "order": 10,
+      "prev": "lakomec_010.html",
+      "next": "lakomec_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ ČTVRTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1.",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2.",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3.",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4.",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5.",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6.",
+              "id": "výstup-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Výstup 7.",
+              "id": "výstup-7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JEDNÁNÍ PÁTÉ • Lakomec",
+      "file": "lakomec_012.html",
+      "words": 3106,
+      "chars": 18515,
+      "ideas": 220,
+      "role": "chapter",
+      "order": 11,
+      "prev": "lakomec_011.html",
+      "next": "lakomec_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JEDNÁNÍ PÁTÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Výstup 1.",
+              "id": "výstup-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Výstup 2.",
+              "id": "výstup-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Výstup 3.",
+              "id": "výstup-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Výstup 4.",
+              "id": "výstup-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Výstup 5.",
+              "id": "výstup-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Výstup 6.",
+              "id": "výstup-6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lakomec",
+      "file": "lakomec_013.html",
+      "words": 51,
+      "chars": 359,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "lakomec_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 17582,
+      "chars": 104034,
+      "ideas": 1128
+    },
+    "chapters": {
+      "words": 17577,
+      "chars": 104004,
+      "ideas": 1123
+    }
+  }
+}

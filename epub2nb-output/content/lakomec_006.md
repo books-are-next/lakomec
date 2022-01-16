@@ -1,5 +1,6 @@
 ---
 title: ''
+hiddenTitle: true
 ---
 
 _Jean Baptiste Poquelin_ (divadelním jménem _Molière_) se narodil v lednu 1622 v Paříži, studoval v koleji clermontské a u Gassendiho, pak práva, načež vstoupil do společnosti kočujících herců. Brzy stal se ředitelem společnosti a procestoval za 12 roků skoro celou Francii, r. 1658 vrátil se do Paříže. Roku 1662 oženil se s Armandou Béjartovou, která mu lehkomyslností a nevěrností svou život ztrpčila. Herecká společnost jeho došla velké obliby u dvora i u obecenstva, avšak literární působení Molièrovo osobně mu získalo četných nepřátel v kruzích dvorních, literárních i církevních. Starosti různého druhu a utrpení podrývaly život jeho, až podlehl konečně prsní chorobě několik hodin po představení „Domnělého nemocného“, při němž dostal náhle chrlení krve dne 17. února 1673. Kněžstvo odepřelo mu církevní pohřeb. Teprve r. 1817 byly kosti jeho na hřbitov Père Lachaise přeneseny. Akademie postavila poprsí jeho v své síni zasedací r. 1778, r. 1844 byl mu v ulici, kde zemřel (Rue de Richelieu), pomník postaven.

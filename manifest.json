@@ -1,38 +1,18 @@
 {
   "author": "Molière",
   "edition": "beletrie",
-  "identifier": "moliere-lakomec-ba3d9ae",
+  "identifier": "moliere-lakomec-6aea05c",
   "languagecode": "cs",
   "modified": "2022-01-16T17:16:49.870Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Lakomec",
-  "revision": "ba3d9ae",
+  "revision": "6aea05c",
   "generatedAt": {
-    "date": "Sun Jan 16 2022 17:29:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642354185582
+    "date": "Sun Jan 16 2022 17:34:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642354489226
   },
   "documents": [
-    {
-      "title": "Lakomec",
-      "file": "lakomec_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "lakomec_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Lakomec",
       "file": "lakomec_002.html",
@@ -40,28 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "lakomec_001.html",
-      "next": "lakomec_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Lakomec",
-      "file": "lakomec_003.html",
-      "words": 9,
-      "chars": 67,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 2,
-      "prev": "lakomec_002.html",
+      "order": 0,
+      "prev": null,
       "next": "lakomec_004.html",
       "toc": [
         {
@@ -80,28 +40,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 3,
-      "prev": "lakomec_003.html",
-      "next": "lakomec_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Lakomec",
-      "file": "lakomec_005.html",
-      "words": 78,
-      "chars": 514,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "lakomec_004.html",
+      "order": 1,
+      "prev": "lakomec_002.html",
       "next": "lakomec_006.html",
       "toc": [
         {
@@ -120,8 +60,8 @@
       "chars": 3445,
       "ideas": 7,
       "role": "chapter",
-      "order": 5,
-      "prev": "lakomec_005.html",
+      "order": 2,
+      "prev": "lakomec_004.html",
       "next": "lakomec_007.html",
       "toc": [
         {
@@ -140,7 +80,7 @@
       "chars": 465,
       "ideas": 15,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "lakomec_006.html",
       "next": "lakomec_008.html",
       "toc": [
@@ -160,7 +100,7 @@
       "chars": 25782,
       "ideas": 280,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "lakomec_007.html",
       "next": "lakomec_009.html",
       "toc": [
@@ -251,7 +191,7 @@
       "chars": 19751,
       "ideas": 160,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "lakomec_008.html",
       "next": "lakomec_010.html",
       "toc": [
@@ -314,7 +254,7 @@
       "chars": 19924,
       "ideas": 243,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "lakomec_009.html",
       "next": "lakomec_011.html",
       "toc": [
@@ -440,7 +380,7 @@
       "chars": 15182,
       "ideas": 173,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "lakomec_010.html",
       "next": "lakomec_012.html",
       "toc": [
@@ -510,9 +450,9 @@
       "chars": 18515,
       "ideas": 220,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "lakomec_011.html",
-      "next": "lakomec_013.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -567,20 +507,20 @@
       ]
     },
     {
-      "title": "Lakomec",
-      "file": "lakomec_013.html",
-      "words": 51,
-      "chars": 359,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 12,
+      "title": "Tiráž • Lakomec",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 945,
+      "ideas": 26,
+      "role": "colophon",
+      "order": null,
       "prev": "lakomec_012.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -594,9 +534,9 @@
       "ideas": 1128
     },
     "chapters": {
-      "words": 17577,
-      "chars": 104004,
-      "ideas": 1123
+      "words": 17439,
+      "chars": 103064,
+      "ideas": 1098
     }
   }
 }

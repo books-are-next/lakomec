@@ -1,5 +1,6 @@
 ---
 title: OSOBY
+contentType: prose
 ---
 
 **HARPAGON**, otec Kleanta a Elisy, zamilovaný do Mariany

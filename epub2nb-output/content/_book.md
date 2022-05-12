@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Lakomec
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - lakomec_002.html
+  - promo.html
   - lakomec_004.html
   - lakomec_006.html
   - lakomec_007.html

@@ -1,21 +1,35 @@
 {
-  "author": "Molière",
-  "edition": "beletrie",
-  "identifier": "moliere-lakomec-6aea05c",
-  "languagecode": "cs",
-  "modified": "2022-01-16T17:16:49.870Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Lakomec",
-  "revision": "6aea05c",
+  "author": "Molière",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "moliere-lakomec-0c2e069",
+  "revision": "0c2e069",
+  "readingOrder": [
+    "promo.html",
+    "lakomec_004.html",
+    "lakomec_006.html",
+    "lakomec_007.html",
+    "lakomec_008.html",
+    "lakomec_009.html",
+    "lakomec_010.html",
+    "lakomec_011.html",
+    "lakomec_012.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Jan 16 2022 17:34:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642354489226
+    "date": "Thu May 12 2022 10:38:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351895783
   },
   "documents": [
     {
-      "title": "Lakomec",
-      "file": "lakomec_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +37,7 @@
       "order": 0,
       "prev": null,
       "next": "lakomec_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Lakomec",
@@ -41,7 +47,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "lakomec_002.html",
+      "prev": "promo.html",
       "next": "lakomec_006.html",
       "toc": [
         {
@@ -74,7 +80,7 @@
       ]
     },
     {
-      "title": "OSOBY • Lakomec",
+      "title": "OSOBY",
       "file": "lakomec_007.html",
       "words": 70,
       "chars": 465,
@@ -94,7 +100,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PRVNÍ • Lakomec",
+      "title": "JEDNÁNÍ PRVNÍ",
       "file": "lakomec_008.html",
       "words": 4403,
       "chars": 25782,
@@ -185,7 +191,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ DRUHÉ • Lakomec",
+      "title": "JEDNÁNÍ DRUHÉ",
       "file": "lakomec_009.html",
       "words": 3340,
       "chars": 19751,
@@ -248,7 +254,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ TŘETÍ • Lakomec",
+      "title": "JEDNÁNÍ TŘETÍ",
       "file": "lakomec_010.html",
       "words": 3346,
       "chars": 19924,
@@ -374,7 +380,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ ČTVRTÉ • Lakomec",
+      "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "lakomec_011.html",
       "words": 2654,
       "chars": 15182,
@@ -444,7 +450,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PÁTÉ • Lakomec",
+      "title": "JEDNÁNÍ PÁTÉ",
       "file": "lakomec_012.html",
       "words": 3106,
       "chars": 18515,
@@ -507,11 +513,11 @@
       ]
     },
     {
-      "title": "Tiráž • Lakomec",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 945,
-      "ideas": 26,
+      "words": 116,
+      "chars": 766,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "lakomec_012.html",
@@ -529,9 +535,9 @@
   ],
   "totals": {
     "all": {
-      "words": 17582,
-      "chars": 104034,
-      "ideas": 1128
+      "words": 17559,
+      "chars": 103855,
+      "ideas": 1121
     },
     "chapters": {
       "words": 17439,

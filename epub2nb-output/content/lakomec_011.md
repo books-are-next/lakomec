@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ ČTVRTÉ
+contentType: prose
 ---
 
 ## Výstup 1.

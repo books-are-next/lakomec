@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ PRVNÍ
+contentType: prose
 ---
 
 ## Výstup 1.

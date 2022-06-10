@@ -3,6 +3,8 @@ title: JEDNÁNÍ ČTVRTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1.
 
 _KLEANT, MARIANA, ELISA, FROSINA._
@@ -346,3 +348,5 @@ __Oba odejdou.__
 **HARPAGON** _(křičí ze zahrady a přiběhne bez klobouku)_: Zloději! Zloději! Vrahové! Pomoc! – Vražda! Spravedlivé nebe! Jsem ztracen! Zničen, zavražděn, podřezali mně chřtán! – Ukradli mi peníze. Kdo to může být? Co se s ním stalo? Kde je? Kde se skrývá? Co dělat, bych jej nalezl? – Kam běžet? – Kam neběžet? – Není tady? Není tam?… Kdo je tu? – Stůj! _(Sám sebe chytá za ruce.)_ Darebo, vrať mi mé peníze!… Ach, toť jsem já sám! Můj duch je pomaten – nevím ani kdo jsem, kde jsem a co dělám! – Mé drahé, ubohé peníze! Můj příteli, ukradli mi tebe. Já ztratil tebou svou podporu, útěchu, radost, vše je skončeno pro mne, jsem zbytečný na světě! – Bez tebe žíti mi nelze. Dokonáno! – Nemohu dál, umírám, jsem mrtev, jsem pochován! – Což mne nikdo nevzbudí navrácením mých drahých peněz nebo zprávou, kde jsou? – Ach, co pravíte? Nikoho tu!… Ať to byl, kdo byl, musil si dobře vyčíhat hodinu a vyhlíd’ si okamžik právě, kdy jsem mluvil se svým ničemným synem! Půjdu na úřad a dám prohledat celý dům, sluhy, služky, dceru, syna i sebe! – Co tu lidí! Každý mne naplňuje podezřením a každý se mi zdá býti zlodějem! – Ha, o kom to mluvím? O tom, kdo mne okrad? Jaký to hluk nahoře? – Je tam zloděj? Smilování, dejte mi, probůh, nějaké zprávy o tom zloději! – Není ukryt mezi vámi? Dívají se na mne a všichni se smějí! – Jistě mají také podílu na té krádeži. Rychle pro komisary, střelce, profousy, soudce, lid, šibenici a katany! – Dám pověsiti celý svět, a nenajdu-li své peníze, oběsím potom sama sebe!
 
 _Opona._
+
+</section>

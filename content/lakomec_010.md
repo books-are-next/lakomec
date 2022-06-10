@@ -3,6 +3,8 @@ title: JEDNÁNÍ TŘETÍ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1.
 
 _HARPAGON, KLEANT, ELISA, VALER, PANÍ CLAUDE (v ruce koště), MISTR JAKUB, LA MERLUCHE, BRINDAVOINE._
@@ -486,3 +488,5 @@ _HARPAGON, VALER._
 **HARPAGON** _(sám)_: Ó nezdárné dítě, chceš mne přivésti na mizinu? _(Odejde s VALEREM.)_
 
 _Opona._
+
+</section>

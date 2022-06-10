@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **HARPAGON**, otec Kleanta a Elisy, zamilovaný do Mariany
 
 **KLEANT**, jeho syn, milenec Mariany
@@ -29,6 +31,10 @@ contentType: prose
 
 **POLICEJNÍ KOMISAŘ** a jeho **PÍSAŘ**
 
-  
+</section>
+
+<section>
 
 _Děj v Paříži v domě Harpagonově._
+
+</section>

@@ -3,6 +3,8 @@ title: JEDNÁNÍ DRUHÉ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1.
 
 _KLEANT, LA FLÈCHE._
@@ -320,3 +322,5 @@ _HARPAGON, FROSINA._
 **FROSINA** _(sama)_: Nechť schvátí tebe zimnice, ty psovský lakomče! Jdi ke všem čertům! Odolal držgrešle všem mým útokům! Ale já se ještě nevzdám toho obchodu! Pro každý případ je tu ještě druhá strana, kde mám dobrý výdělek jistý! _(Hrozíc zlostně za HARPAGONEM odejde.)_
 
 _Opona._
+
+</section>

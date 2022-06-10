@@ -3,6 +3,8 @@ title: JEDNÁNÍ PÁTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Výstup 1.
 
 _HARPAGON, POLICEJNÍ KOMISAŘ._
@@ -440,3 +442,5 @@ _HARPAGON, ANSELM, ELISA, MARIANA, KLEANT, VALER, FROSINA, KOMISAŘ, MISTR JAKUB
 **HARPAGON**: A já rychle k své kasičce!
 
 _Opona._
+
+</section>

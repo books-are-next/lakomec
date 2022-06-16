@@ -8,7 +8,8 @@
       "modified": "2022-01-16T17:16:49.870Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",

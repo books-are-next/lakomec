@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "moliere-lakomec-94059ce",
-  "revision": "94059ce",
+  "identifier": "moliere-lakomec-2f3a331",
+  "revision": "2f3a331",
   "readingOrder": [
     "promo.html",
     "lakomec_004.html",
@@ -20,11 +20,11 @@
     "lakomec_010.html",
     "lakomec_011.html",
     "lakomec_012.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:13:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979180927
+    "date": "Thu Jul 07 2022 08:33:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182806236
   },
   "documents": [
     {
@@ -458,7 +458,7 @@
       "role": "chapter",
       "order": 8,
       "prev": "lakomec_011.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -514,11 +514,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 125,
-      "chars": 823,
+      "chars": 822,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "lakomec_012.html",
       "next": null,
@@ -536,7 +536,7 @@
   "totals": {
     "all": {
       "words": 17569,
-      "chars": 103912,
+      "chars": 103911,
       "ideas": 1121
     },
     "chapters": {

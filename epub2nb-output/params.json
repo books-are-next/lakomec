@@ -60,7 +60,7 @@
             "filename": "lakomec_003.md",
             "xhtml": "lakomec_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -80,7 +80,7 @@
             "filename": "lakomec_005.md",
             "xhtml": "lakomec_005.xhtml",
             "id": 4,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -167,7 +167,7 @@
             "filename": "lakomec_013.md",
             "xhtml": "lakomec_013.xhtml",
             "id": 12,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -342,6 +342,6 @@
       "user": "books-are-next",
       "repo": "lakomec"
     },
-    "generatedAt": 1655979008035
+    "generatedAt": 1657182126654
   }
 }

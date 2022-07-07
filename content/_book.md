@@ -23,7 +23,7 @@ readingOrder:
   - lakomec_010.html
   - lakomec_011.html
   - lakomec_012.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "moliere-lakomec-d9ae545",
-  "revision": "d9ae545",
+  "identifier": "moliere-lakomec-e108702",
+  "revision": "e108702",
   "readingOrder": [
     "promo.html",
     "lakomec_004.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:02:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188138246
+    "date": "Thu Jul 21 2022 14:37:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414277578
   },
   "documents": [
     {
@@ -516,7 +516,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 125,
-      "chars": 822,
+      "chars": 823,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -536,7 +536,7 @@
   "totals": {
     "all": {
       "words": 17569,
-      "chars": 103911,
+      "chars": 103912,
       "ideas": 1121
     },
     "chapters": {

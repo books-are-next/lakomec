@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "moliere-lakomec-4ca257b",
-  "revision": "4ca257b",
+  "identifier": "moliere-lakomec-0dcc5b9",
+  "revision": "0dcc5b9",
   "readingOrder": [
     "promo.html",
     "lakomec_004.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:58:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924299222
+    "date": "Fri Oct 07 2022 14:05:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151520454
   },
   "documents": [
     {
